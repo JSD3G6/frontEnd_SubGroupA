@@ -2,3 +2,5 @@ node_modules
 package.lock.json
 build
 config-overrides.js
+postcss.config.js
+tailwind.config.js
