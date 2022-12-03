@@ -11,6 +11,9 @@ module.exports = {
         'purple-p-600': '#751cf7',
         'purple-p-700': '#630eef',
         'purple-p-800': '#5100ea'
+      },
+      screens: {
+        'semi-lg': '824px'
       }
     }
   },
