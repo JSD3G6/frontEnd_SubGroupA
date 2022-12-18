@@ -10,12 +10,12 @@ module.exports = {
         'purple-p-500': '#8322FE',
         'purple-p-600': '#751cf7',
         'purple-p-700': '#630eef',
-        'purple-p-800': '#5100ea'
+        'purple-p-800': '#5100ea',
       },
       screens: {
-        'semi-lg': '824px'
-      }
-    }
+        'semi-lg': '824px',
+      },
+    },
   },
-  plugins: []
+  plugins: [],
 };
